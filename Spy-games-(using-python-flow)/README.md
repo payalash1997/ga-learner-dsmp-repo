@@ -15,11 +15,12 @@
 
 ### Challenges faced
 
- Was not able to figure out at the first then things were good  
+ Was not able to understand few questions, however as this was start tried to use different sources to understand it 
 
 
 ### Additional pointers
 
- Poject was helpfull to understand how to use the codes
+ none.
 
 
+use various sources
